@@ -1,0 +1,6 @@
+git branching statergy
+main/master branch
+hot fix/bug fix branch
+release branch
+developers/team branch
+feature branch
